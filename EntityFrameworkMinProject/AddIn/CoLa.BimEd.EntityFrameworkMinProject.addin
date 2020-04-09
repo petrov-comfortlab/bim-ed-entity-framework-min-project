@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+    <AddIn Type="Application">
+        <AddInId>1F315BB1-E378-44CF-954E-7E0B35AE1582</AddInId>
+        <Name>EntityFrameworkMinProject</Name>
+        <Assembly>CoLa.BimEd.EntityFrameworkMinProject.AddIn.dll</Assembly>
+        <FullClassName>CoLa.BimEd.EntityFrameworkMinProject.AddIn.StartApplication</FullClassName>
+        <VendorId>CLRS</VendorId>
+        <VendorDescription>LLC LK-Proekt, petrov@comfortlab.ru</VendorDescription>
+    </AddIn>
+</RevitAddIns>
